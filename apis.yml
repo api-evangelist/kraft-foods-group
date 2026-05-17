@@ -5,7 +5,7 @@ description: >-
   packaged food and beverages including cheese, refrigerated meals,
   refreshment beverages, coffee, and convenient meals before merging with
   H.J. Heinz to form The Kraft Heinz Company in 2015.
-type: Company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Beverages

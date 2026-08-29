@@ -6,6 +6,17 @@ description: >-
   refreshment beverages, coffee, and convenient meals before merging with
   H.J. Heinz to form The Kraft Heinz Company in 2015.
 kind: company
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

@@ -1,7 +1,9 @@
 ---
 title: 'Business Bites: Kraft Heinz invests in growth, may stay ...'
 url: https://www.supplysidefbj.com/food-beverage-operations/business-bites-kraft-heinz-invests-600-million-in-effort-to-stay-together
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kraft Foods Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

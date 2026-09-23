@@ -1,7 +1,9 @@
 ---
 title: Kraft Heinz invests in AI, robotics so it doesn't have to ' ...
 url: https://www.ciodive.com/news/kraft-heinz-invests-in-ai-robotics-so-it-doesnt-have-to-ketchup-to-comp/506501/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kraft Foods Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
